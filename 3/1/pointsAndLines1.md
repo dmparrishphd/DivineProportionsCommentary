@@ -15,3 +15,9 @@ We prefer to write the equation of a line similarly:
 The _pitch_ of line `(c, a, b)` is `(a, b)`.
 
 Pitch is not quite the same as _slope_, since `(0, b)` is a well-defined pitch, but slope `b/0` is undefined.
+
+# Definition of _scale_ (of a line)
+
+The _scale_ of a line `(c, a, b)` is `a * a + b * b`.
+
+This quantity appears in DP3.4 (Theorem 8, Foot of an altitude), DP4.1 (Theorem 13, Reflection of a point in a line), DP5.4 (Theorem 25, Quadrance to a line), DP6.1 (Definition of spread), and perhaps elsewhere.
