@@ -20,4 +20,6 @@ Pitch is not quite the same as _slope_, since `(0, b)` is a well-defined pitch, 
 
 The _scale_ of a line `(c, a, b)` is `a * a + b * b`.
 
+    scl((c, a, b)) = a * a + b * b
+
 This quantity appears in DP3.4 (Theorem 8, Foot of an altitude), DP4.1 (Theorem 13, Reflection of a point in a line), DP5.4 (Theorem 25, Quadrance to a line), DP6.1 (Definition of spread), and perhaps elsewhere.
