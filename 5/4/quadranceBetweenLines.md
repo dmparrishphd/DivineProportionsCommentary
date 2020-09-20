@@ -15,8 +15,10 @@ the quadrance between them is the quadrance between a point on `(d, a, b)` and l
     
 ## Swath of a Line
 
-If the quadrance from a point `(x, y)` to a line `(c, a, b)` is less than some number _K_, i.e.,
+If the quadrance from a point `(x, y)` to a line _h_, `(c, a, b)`, is less than some number _K_, i.e.,
 
-    `sqr(a * x + b * y + c) / scl(h) < K`
+    sqr(a * x + b * y + c) / scl(h) < K
     
 We might say that the point `(x, y)` is within the _swath of quadrance K_ of line `(a, b, c)`.
+
+Points with quadrance to line _h_ less than the quadrance between lines `(c +/- w, a, b)` and _h_ are with the swath of quadrance `sqr(w)/scl(h)`.
