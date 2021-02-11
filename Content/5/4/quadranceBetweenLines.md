@@ -21,4 +21,4 @@ If the quadrance from a point `(x, y)` to a line _h_, `(c, a, b)`, is less than 
     
 We might say that the point `(x, y)` is within the _swath of quadrance K_ of line `(a, b, c)`.
 
-Points with quadrance to line _h_ less than the quadrance between lines `(c +/- w, a, b)` and _h_ are with the swath of quadrance `sqr(w)/scl(h)`.
+Points with quadrance to line _h_ less than the quadrance between lines `(c +/- w, a, b)` and _h_ are within the swath of quadrance `sqr(w)/scl(h)`.
