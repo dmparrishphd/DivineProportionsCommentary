@@ -2,6 +2,8 @@
 
 The quadrance from point `(x, y)` to line _h_ could be written `sqr(a * x + b * y + c) / scl(h)`.
 
+For the special case where `(x, y) = (0, 0)`, the quadrance is `sqr(c) / scl(h)`.
+
 ## Quadrance Between Parallel Lines
 
 The quadrance between parallel lines is equal to the quadrance from a point on one of the lines to the other line.
