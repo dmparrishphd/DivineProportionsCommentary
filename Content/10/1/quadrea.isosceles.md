@@ -8,7 +8,8 @@ the quadrea is
 
     Q1 * ( 4 * Q2 - Q1 )
 
-This can be shown by substituting the quadrances into the definition of quadrea (DP 5.5),
+This can be shown by substituting the quadrances into the definition of quadrea
+(DP5.5 Definition of Quadrea),
 expanding the square of sums,
 canceling the `Q2`-squared terms, and
 factoring out `Q1`.
