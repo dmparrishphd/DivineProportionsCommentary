@@ -1,13 +1,13 @@
 Point on two lines
 ==================
 
-Consider the matrix
+Consider the matrix:
 
     c1   a1   b1
     
     c2   a2   b2
     
-Define the matrices
+Define the matrices (which are submatrices of the above matrix):
 
             b1   c1              a1   c1              a1   b1
     A   =                B   =                C   =
