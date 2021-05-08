@@ -1,6 +1,9 @@
 # Relating to "Quadrance to a Line"
 
-The quadrance from point `(x, y)` to line _h_ could be written `sqr(a * x + b * y + c) / scl(h)`.
+The quadrance from point `p = (x, y)` to line _h_ could be written `sqr(zee(p, h)) / scl(h)`.
+(See [this page](
+../../3/1/pointsAndLines1.md
+) for definition of `zee`).
 
 For the special case where `(x, y) = (0, 0)`, the quadrance is `sqr(c) / scl(h)`.
 
