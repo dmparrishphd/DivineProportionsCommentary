@@ -17,6 +17,8 @@ We prefer to write the equation of a line similarly:
 We might choose to evaluate the expression `c + a * x + b * y` for a given line `(c, a, b)` and point `(x, y)`.
 
 We call this _evaluating a point with respect to a line_.
+
+We might define `zee ( x , y ; c , a , b ) = zee ((x, y) , (c, a, b)) == c + a * x + b * y`
     
 ## Definition of _pitch_
 
