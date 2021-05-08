@@ -6,7 +6,7 @@ We might write `det(p, q)`, where `p` and `q` are points.
 
 # Definition of `del`
 
-Given an ordered pair of numbers `(a, b)`, `del(a, b) = b - a`.
+Given an ordered pair of numbers `(a, b)`, `del((a, b)) = b - a`.
 
 # Line Though Two Points
 
