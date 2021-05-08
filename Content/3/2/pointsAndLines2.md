@@ -14,3 +14,5 @@ Given two distinct points `p = (x1, y1), q = (x2, y2)` and
 two ordered pairs `X = (x1, x2), Y = (y1, y2)`,
 we might write the line through two points as `(det(p, q), -del(Y), del(X))` or
 `det(p, q) - x * del(Y) + y * del(X) = 0`.
+
+See also "Line through two points," Theorem 2 in DP (Section 3.2).
