@@ -6,7 +6,7 @@ Herein, we prefer to denote a line
 
     (c, a, b)
     
-(We prefer to place the terms in ascending order of order, i.e., zero-order term first, first order terms second.)
+(We prefer to place the terms in ascending order, i.e., zero-order term first, first order terms second.)
 
 We prefer to write the equation of a line similarly:
 
