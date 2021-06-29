@@ -5,7 +5,7 @@ A **Z**box ("zee box") is a _quadrilateral_ (See definition of quadrilateral, DP
 
     ( (x1, y1), (x2, y1), (x2, y2), (x1, y2) )
 
-where `x1`, `x2`, `y1`, `y2` are _integers_: i.e.; `x1`, `x2`, `y1`, `y2` in **Z**.
+where `x1`, `x2`, `y1`, `y2` are _integers_; i.e.: `x1`, `x2`, `y1`, `y2` in **Z**.
 
 A **Z**box is _aligned_ with the Cartesian lattice.
 
