@@ -26,7 +26,7 @@ The _pitch_ of line `(c, a, b)` is `(a, b)`.
 
 Pitch is not quite the same as _slope_, since `(0, b)` is a well-defined pitch, but slope `b/0` is undefined.
 
-See Also: [Classification](./pitchClassification.md)
+See Also: [Classification](./pitchClassification.md).
 
 ## Definition of _scale_ (of a line)
 
